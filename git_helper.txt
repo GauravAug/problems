@@ -2,3 +2,9 @@
 2. To add file in staging area: git add filename
 3. After adding you need to commit: git commit -m "enter the commit messsage"
 4. To push the changes to remote: git push
+
+
+5. to know present working directory/folder: pwd
+6. to move one folder back: cd ..
+7. to move two folder back: cd ../..
+8. cd means change directory
