@@ -2,9 +2,24 @@
 2. To add file in staging area: git add filename
 3. After adding you need to commit: git commit -m "enter the commit messsage"
 4. To push the changes to remote: git push
+5. To remove all files from staging area: git reset
+
 
 
 5. to know present working directory/folder: pwd
 6. to move one folder back: cd ..
 7. to move two folder back: cd ../..
 8. cd means change directory
+
+git tutorial: complete this tutorial
+https://www.youtube.com/watch?v=8JJ101D3knE
+https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx
+
+DataBase Management System:
+
+Complete this lecture series
+https://www.youtube.com/watch?v=rbwXdTsCk2c&list=PLyvBGMFYV3auVdxQ1-88ivNFpmUEy-U3M
+
+Operating System
+https://www.youtube.com/watch?v=MaA0vFKt-ew&list=PLLDC70psjvq5hIT0kfr1sirNuees0NIbG
+
